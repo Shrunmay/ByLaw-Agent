@@ -1,6 +1,6 @@
 # Toronto City AI ByLaw Agent
-### Rotman School of Management | RSM8431 Capstone Project
-#### By Shrunmay Shinde (Graduate Student, MMA)
+### Rotman School of Management | RSM8431 Project
+#### By Shrunmay Shinde, Austin Li, Sherry Liu, Ivy Pan, Rebecca Lee
 
 This repository contains a full-stack, conversational AI agent designed to assist citizens with non-emergency City of Toronto municipal services. The agent is strictly grounded in over **30,000 official records** from Toronto Open Data, covering building permits, waste disposal protocols, and non-emergency service requests (e.g., potholes, graffiti).
 
@@ -48,7 +48,7 @@ BYLAW_AGENT/
 ├── evaluation_report.csv       # Output of the final evaluation run
 ├── README.md                   # This project documentation
 ├── requirements.txt            # Project dependencies
-└── Test_Cases.txt               # A sample of the 15 "Golden" test cases
+└── Test_Cases.txt               # A sample of the 15 test cases
 
 ```
 ### 💾 Data Management Note
