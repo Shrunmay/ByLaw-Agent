@@ -1,4 +1,4 @@
-# Toronto City AI: 311 Municipal Service Agent
+# Toronto City AI ByLaw Agent
 ### Rotman School of Management | RSM8431 Capstone Project
 #### By Shrunmay Shinde (Graduate Student, MMA)
 
@@ -50,8 +50,8 @@ BYLAW_AGENT/
 ├── requirements.txt            # Project dependencies
 └── Test_Cases.txt               # A sample of the 15 "Golden" test cases
 
----
-## 💾 Data Management Note
+```
+### 💾 Data Management Note
 Due to GitHub's file size limitations (>50MB), the raw `chroma_db` vector store and large JSON source files are not included in this repository.
 
 Due to the large size of our knowledge base (30,000+ records), the local vector store exceeds GitHub's file size limits. We provide two ways to access the project data:
