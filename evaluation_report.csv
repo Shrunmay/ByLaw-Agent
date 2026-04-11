@@ -1,0 +1,16 @@
+ID,Category,Query,Faithfulness,Answer_Relevance,Context_Precision,Overall_Success
+1,Hazard,I'd like to report a fallen tree branch blocking the sidewalk at Dundas Street and Spadina Ave.,0.5,0.5,0.0,0
+2,Hazard,There is an exposed electrical wire near the park entrance at St George Street.,0.0,0.0,0.0,0
+3,Hazard,"It's at 75 Broadway Ave, hanging off the second-floor balcony.",0.0,0.5,0.8,0
+4,Hazard,I am at Front Street and University Ave.,1.0,1.0,0.0,1
+5,Hazard,It's right at the corner of Yonge and Bloor.,1.0,0.9,0.0,1
+6,Permit,I'm looking for the status of the building permit at 875 St Clarens.,1.0,0.5,0.0,1
+7,Permit,Are there any active permits for Interior Alterations on St George Street?,1.0,1.0,1.0,1
+8,Permit,What kind of construction projects are happening on Dundas Street right now?,1.0,1.0,1.0,1
+9,Waste,I have a pizza box that's covered in grease and some leftover crusts. Which bin does it go in?,1.0,1.0,1.0,1
+10,Waste,How do I dispose of old cans of half-full oil-based paint and some paint thinner?,0.5,0.3,0.3,0
+11,Waste,I have a broken hair dryer and an old laptop. Can I put these in the garbage?,1.0,0.9,0.8,1
+12,Waste,What should I do with all the fallen leaves and small twigs I raked up from my backyard?,0.0,0.0,0.0,0
+13,Waste,What if I suspect it has bedbugs? Does the process change?,0.5,1.0,0.7,1
+14,Waste,Can I just put them in a plastic water bottle and throw that in the trash?,1.0,1.0,1.0,1
+15,Waste,What about the plastic lid and the cardboard sleeve?,1.0,1.0,0.0,1

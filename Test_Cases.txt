@@ -1,0 +1,37 @@
+Hazard Reporter: 
+Single Turn Test Cases: 
+1. I'd like to report a fallen tree branch blocking the sidewalk at Dundas Street and Spadina Ave.
+2. There is an exposed electrical wire near the park entrance at St George Street.
+Multi Turn Test Cases:
+3. The Vague Description
+Turn 1: There is a dangerous sign hanging by a thread over the sidewalk.
+Turn 2: It's at 75 Broadway Ave, hanging off the second-floor balcony.
+4. The Traffic Signal Failure
+Turn 1:The traffic lights are completely out at this intersection.
+Turn 2:I am at Front Street and University Ave.
+5. The Missing Intersection (Guardrail)
+Turn 1:I need to report a flooded street.
+Turn 2: It's right at the corner of Yonge and Bloor.
+
+Permit Screener: 
+Single Turn Test Cases: 
+6. I'm looking for the status of the building permit at 875 St Clarens.
+7. Are there any active permits for Interior Alterations on St George Street?
+8. What kind of construction projects are happening on Dundas Street right now?
+
+Collection Lookup Wizard:
+Single Turn Test Cases: 
+9. I have a pizza box that's covered in grease and some leftover crusts. Which bin does it go in?
+10. How do I dispose of old cans of half-full oil-based paint and some paint thinner?
+11. I have a broken hair dryer and an old laptop. Can I put these in the garbage?
+12. What should I do with all the fallen leaves and small twigs I raked up from my backyard?
+Multi Turn Test Cases:
+13. The "Oversized" Furniture Logic
+Turn 1:I am moving out and need to get rid of a large sectional sofa.
+Turn 2:What if I suspect it has bedbugs? Does the process change?
+14.The "Syringe" Safety Protocol
+Turn 1:I found some medical needles in my basement from a previous tenant. How do I toss them?
+Turn 2:Can I just put them in a plastic water bottle and throw that in the trash?
+15.The "Coffee Cup" Confusion
+Turn 1:Where does my Tim Hortons coffee cup go?
+Turn 2:What about the plastic lid and the cardboard sleeve?

@@ -1,0 +1,8 @@
+streamlit
+langchain-chroma
+pandas
+requests
+sentence-transformers
+langchain-openai
+pandas
+requests
